@@ -1,0 +1,24 @@
+{
+  "name": "pokeapi-hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js charizard && node test.js bulbasaur"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlo-paz/pokeapi-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlo-paz/pokeapi-hw/issues"
+  },
+  "homepage": "https://github.com/karlo-paz/pokeapi-hw#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
